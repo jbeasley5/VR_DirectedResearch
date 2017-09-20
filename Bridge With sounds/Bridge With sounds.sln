@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge With sounds", "Assembly-CSharp.csproj", "{2698277F-4317-89CB-6F0B-B2FE8477A115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge With sounds", "Assembly-CSharp-firstpass.csproj", "{1EDE9258-BEBF-17C4-4412-5148ABA37A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge With sounds", "Assembly-CSharp-Editor-firstpass.csproj", "{4071C06A-8708-FFE6-A7FB-EDD804155261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2698277F-4317-89CB-6F0B-B2FE8477A115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2698277F-4317-89CB-6F0B-B2FE8477A115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2698277F-4317-89CB-6F0B-B2FE8477A115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2698277F-4317-89CB-6F0B-B2FE8477A115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EDE9258-BEBF-17C4-4412-5148ABA37A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDE9258-BEBF-17C4-4412-5148ABA37A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDE9258-BEBF-17C4-4412-5148ABA37A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDE9258-BEBF-17C4-4412-5148ABA37A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4071C06A-8708-FFE6-A7FB-EDD804155261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4071C06A-8708-FFE6-A7FB-EDD804155261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4071C06A-8708-FFE6-A7FB-EDD804155261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4071C06A-8708-FFE6-A7FB-EDD804155261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
