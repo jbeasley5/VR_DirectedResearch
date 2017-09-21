@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge With sounds", "Assem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge With sounds", "Assembly-CSharp-Editor-firstpass.csproj", "{4071C06A-8708-FFE6-A7FB-EDD804155261}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge With sounds", "Assembly-CSharp-Editor.csproj", "{DF66F3D7-0DA6-8AD5-86CE-A5485A861114}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{4071C06A-8708-FFE6-A7FB-EDD804155261}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4071C06A-8708-FFE6-A7FB-EDD804155261}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4071C06A-8708-FFE6-A7FB-EDD804155261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF66F3D7-0DA6-8AD5-86CE-A5485A861114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF66F3D7-0DA6-8AD5-86CE-A5485A861114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF66F3D7-0DA6-8AD5-86CE-A5485A861114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF66F3D7-0DA6-8AD5-86CE-A5485A861114}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
